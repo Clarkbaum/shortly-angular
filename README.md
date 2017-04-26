@@ -3,4 +3,4 @@
 npm install
 ```
 
-done at Hack Reactor on their hack reactor computer which is why my commits come up as 'hack-reactor-student'
+done at Hack Reactor on their computers which is why my commits come up as 'hackreactor-students'
